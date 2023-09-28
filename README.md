@@ -17,7 +17,7 @@ Si quieres tomar como referencia para el reto mi solución, puedes hacerlo ingre
 Si el material te gusta, déjale una estrellita :star:
 
 ## Autor
-- [Nombre del Autor]
+Sergio Vergara
 
 ## Copyright
 Material creado por [Luisa Castaño](https://github.com/LuisaCastano40)<br>
