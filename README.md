@@ -12,7 +12,8 @@ A continuación, se presentan los temas principales de este proyecto:
 3. Reto calculadora básica funcional.
 
 ## Material de los proyectos completos
-Si quieres tomar como referencia para el reto mi solución, puedes hacerlo ingresando a la carpeta del workshop 2 [Aquí](https://github.com/LuisaCastano40/WorkshopsBIT-2023)<br>
+
+Si quieres tomar como referencia para el reto mi solución, puedes hacerlo ingresando a la carpeta del workshop 2: :file_folder:  [Aquí](https://github.com/LuisaCastano40/WorkshopsBIT-2023)<br><br>
 Si el material te gusta, déjale una estrellita :star:
 
 ## Autor
